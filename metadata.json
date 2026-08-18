@@ -1,0 +1,7 @@
+{
+  "name": "MedRescue",
+  "description": "Emergency response console featuring deliberate SOS dispatch, encrypted Health Card with responder QR access, live ER directory with trauma routing, and telemetry logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
